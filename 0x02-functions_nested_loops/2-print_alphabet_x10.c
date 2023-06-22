@@ -7,18 +7,13 @@
 void print_alphabet_x10(void)
 {
 	char letter;
-	int i; /* i represent number of times*/
+	int count = 0;
 
-	i = 0;
-	while, (i < 10)
+	while (count++ <= 9)
 	{
-		letter = 'a';
-		while (letter <= 'z')
-		{
+		for (letter = 'a'; letter <= 'z'; letter++)
 			_putchar(letter);
-			letter++;
-		}
+
 		_putchar('\n');
-		i++;
 	}
 }
