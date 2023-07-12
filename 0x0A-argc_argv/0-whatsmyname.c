@@ -6,7 +6,7 @@
 * followed by a new line.
 * @argc: number of arguments
 * @argv: array of arguments
-* Return: 0 (Success)
+* Return: Always 0 (Success)
 */
 
 int main(int argc__attribute__((unused)), char *argv[])
