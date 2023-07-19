@@ -1,1 +1,1 @@
-0x0A. C - argc, argv ALX SE project
+# 0x0A argc argv alxse project
